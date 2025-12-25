@@ -22,5 +22,15 @@ Repositori ini adalah dokumentasi perjalanan belajar mandiri saya selama 6 bulan
 ## 🧠 Learning Methodology (Senior Architect Principles)
 Setiap modul dalam repositori ini diselesaikan dengan prinsip-prinsip berikut:
 1. **Socratic Logic**: Saya melatih logika koding tanpa menggunakan kode instan dari AI, melainkan melalui petunjuk logika dan pemecahan masalah mandiri.
-2. **Deep Industrial Context**: Setiap skrip dikaitkan dengan kasus nyata seperti *Supply Chain*, MRP, atau audit produksi yang sesuai dengan jurusan yang saya ambil.
+2. **Deep Industrial Context**: Saya mencoba untuk membuat project dari setiap modul yang sesuai dengan jurusan yang saya ambil, yaitu *Supply Chain*, MRP, atau audit produksi
 3. **Clean Code & Documentation**: Menjamin setiap fungsi terdokumentasi dengan baik dan memiliki penanganan kesalahan (*error handling*) yang kuat
+
+---
+
+## 📁 Repository Structure
+* `/Step-A-Analytics`: Dasar logika data dan pembersihan data.
+* `/Step-B-Architect`: Infrastruktur cloud dan otomatisasi pipa data (AWS).
+* `/Step-C-AI-ML`: Penerapan algoritma cerdas untuk optimasi pabrik.
+
+**Perlu diingat bahwa repository structure masih berupa rencana dan dapat berubah seiring waktu
+---
