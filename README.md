@@ -32,5 +32,5 @@ Setiap modul dalam repositori ini diselesaikan dengan prinsip-prinsip berikut:
 * `/Step-B-Architect`: Infrastruktur cloud dan otomatisasi pipa data (AWS).
 * `/Step-C-AI-ML`: Penerapan algoritma cerdas untuk optimasi pabrik.
 
-**Perlu diingat bahwa repository structure masih berupa rencana dan dapat berubah seiring waktu
+*Perlu diingat bahwa repository structure masih berupa rencana dan dapat berubah seiring waktu*
 ---
