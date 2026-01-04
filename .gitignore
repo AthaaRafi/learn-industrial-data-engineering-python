@@ -1,0 +1,7 @@
+# Abaikan semua file CSV
+*.csv
+archive/
+
+# Abaikan file system/cache python
+__pycache__/
+*.ipynb_checkpoints/
